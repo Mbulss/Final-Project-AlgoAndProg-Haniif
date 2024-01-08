@@ -4,7 +4,7 @@ Traditional methods of attendance management in educational institutions and wor
 
 # Documentation 
 
-PDF Link:
+PDF Link:https://drive.google.com/file/d/1aoTCAarj818KvWU570O-V4y1iXPDeuqg/view?usp=sharing
 
 Video: https://drive.google.com/file/d/1eBvKniGsLxG_Or1oNo7bh_H_Uad4m8Xk/view?usp=sharing
 
