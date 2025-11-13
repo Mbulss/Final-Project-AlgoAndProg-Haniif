@@ -35,16 +35,6 @@ data = {
             "year": 1,
             "last_attendance_time": "2023-12-20 00:54:34"
         },
-    "2746528900":
-        {
-            "name": "Ratu Bilqish FFMR",
-            "major": "Doctor",
-            "starting_year": 2023,
-            "total_attendance": 0,
-            "standing": "Good",
-            "year": 1,
-            "last_attendance_time": "2023-12-20 00:54:34"
-        },
     "6047001401":
         {
             "name": "Jude Joseph LM, MCS",
@@ -60,4 +50,5 @@ data = {
 # Loop through the data dictionary to add each student's information to the database
 for key, value in data.items():
     # Set the value of each key (student ID) with its corresponding data in the 'Students' node
+
     ref.child(key).set(value)
